@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kr-busan-busanjin.github.io/sitemap.xml
